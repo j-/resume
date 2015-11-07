@@ -1,0 +1,12 @@
+body {
+	margin: 0;
+	padding: 0;
+	border: none !important;
+	box-shadow: none;
+}
+a {
+	border: none;
+}
+* {
+	color: #000 !important;
+}

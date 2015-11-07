@@ -1,0 +1,69 @@
+html {
+	background: #eaeef3;
+}
+body {
+	width: 50em;
+	margin: 2em auto;
+	background: #fff;
+	padding: 1em;
+	font: 16px Georgia, Times, "Times New Roman", serif;
+	line-height: 2em;
+	color: #444;
+	cursor: default;
+	border: 1px solid rgba(0, 0, 0, 0.3);
+	box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.1);
+}
+a {
+	text-decoration: none;
+	color: inherit;
+	border-bottom: 1px dotted #ccc;
+}
+h1 {
+	color: #800;
+	margin-top: 0;
+	font-style: normal;
+	font-family: Cambria, Georgia, serif;
+}
+h2 {
+	font-variant: small-caps;
+	letter-spacing: 0.2em;
+	color: #800;
+}
+address {
+	display: inline;
+}
+.separator {
+	margin: 0 0.4em;
+}
+.date {
+	float: right;
+	color: #888;
+}
+ul {
+	padding: 0;
+}
+ul ul {
+	padding-left: 1em;
+}
+ul li {
+	margin: 1em 0;
+	list-style: none;
+}
+ul ul li {
+	margin: 0;
+	list-style: disc;
+}
+ul.products li {
+	display: inline-block;
+	margin: 0.2em;
+}
+ul.products li a {
+	display: block;
+	padding: 0.1em 0.3em;
+	background-color: #eee;
+}
+ul.products li a:hover {
+	color: #eee;
+	background-color: #333;
+	border-bottom: 1px solid #800;
+}
