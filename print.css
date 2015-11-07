@@ -22,3 +22,6 @@ ul.products li a {
 ul.products li:not(:last-child) a::after {
 	content: ', ';
 }
+a.anchor::after {
+	display: none;
+}
