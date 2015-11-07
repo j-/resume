@@ -16,3 +16,9 @@ a {
 #section-skills {
 	page-break-before: always;
 }
+ul.products li a {
+	padding: 0;
+}
+ul.products li:not(:last-child) a::after {
+	content: ', ';
+}
