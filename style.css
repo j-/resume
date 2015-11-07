@@ -18,6 +18,9 @@ a {
 	color: inherit;
 	border-bottom: 1px dotted #ccc;
 }
+p {
+	margin: 0;
+}
 h1 {
 	color: #800;
 	margin-top: 0;
