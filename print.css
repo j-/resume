@@ -13,3 +13,6 @@ a {
 .role {
 	page-break-inside: avoid;
 }
+#section-skills {
+	page-break-before: always;
+}
