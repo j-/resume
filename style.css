@@ -18,6 +18,10 @@ a {
 a.anchor {
 	border-bottom: none;
 }
+a.anchor:hover::after {
+	content: '\b6';
+	color: #aaa;
+}
 p {
 	margin: 0;
 }
