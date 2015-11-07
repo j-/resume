@@ -18,6 +18,9 @@ a {
 	color: inherit;
 	border-bottom: 1px dotted #ccc;
 }
+a.anchor {
+	border-bottom: none;
+}
 p {
 	margin: 0;
 }
