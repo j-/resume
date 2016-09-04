@@ -1,14 +1,16 @@
 body {
-	width: 50em;
+	width: 52em;
 	margin: 2em auto;
 	background: #fff;
-	padding: 1em;
 	font: 16px Georgia, Times, "Times New Roman", serif;
 	line-height: 2em;
 	color: #444;
 	cursor: default;
+	padding: 0;
+}
+#resume {
 	border: 1px solid rgba(0, 0, 0, 0.3);
-	box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.1);
+	padding: 1em;
 }
 a {
 	text-decoration: none;
