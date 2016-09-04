@@ -35,7 +35,7 @@ a.anchor::after {
 	display: none;
 }
 #section-latest {
-	margin: 1em 0;
+	margin-bottom: 1em;
 	color: #444;
 	font-style: italic;
 	font-size: 0.8em;
