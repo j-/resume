@@ -67,16 +67,6 @@ ul.products li {
 	display: inline-block;
 	margin: 0.2em;
 }
-ul.products li a {
-	display: block;
-	padding: 0.1em 0.3em;
-	background-color: #eee;
-}
-ul.products li a:hover {
-	color: #eee;
-	background-color: #333;
-	border-bottom: 1px solid #800;
-}
 .print {
 	display: none;
 }
