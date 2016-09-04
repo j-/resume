@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Hoeks;Jamie;;Mr.;
+FN:Jamie Hoeks
+TITLE:Web Developer
+ADR;TYPE=HOME:;;;East Melbourne;Victoria;3002;
+TEL:+61410185129
+EMAIL:j@skeoh.com
+URL:https://skeoh.com
+SOURCE:https://skeoh.com/resume/Jamie_Hoeks.vcf
+END:VCARD
