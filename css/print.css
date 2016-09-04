@@ -31,6 +31,9 @@ a.anchor::after {
 .print {
 	display: block;
 }
+.noprint {
+	display: none;
+}
 #section-latest {
 	margin: 1em 0;
 	color: #444;

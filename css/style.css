@@ -80,3 +80,18 @@ ul.products li a:hover {
 .print {
 	display: none;
 }
+.noprint {
+	display: block;
+}
+#section-download {
+	margin-bottom: 1em;
+}
+#section-download a {
+	padding: 0.25em;
+	background-color: #eee;
+}
+#section-download a:hover {
+	color: #eee;
+	background-color: #333;
+	border-bottom: 1px solid #800;
+}
