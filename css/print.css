@@ -26,3 +26,12 @@ ul.products li:not(:last-child) a::after {
 a.anchor::after {
 	display: none;
 }
+.noprint {
+	display: block;
+}
+#section-latest {
+	margin: 1em 0;
+	color: #444;
+	font-style: italic;
+	font-size: 0.8em;
+}

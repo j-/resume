@@ -75,3 +75,6 @@ ul.products li a:hover {
 	background-color: #333;
 	border-bottom: 1px solid #800;
 }
+.noprint {
+	display: none;
+}
