@@ -28,7 +28,7 @@ ul.products li:not(:last-child) a::after {
 a.anchor::after {
 	display: none;
 }
-.noprint {
+.print {
 	display: block;
 }
 #section-latest {
