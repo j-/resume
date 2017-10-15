@@ -4,6 +4,7 @@ body {
 }
 #resume {
 	border: none;
+	outline: none;
 	padding: 0;
 }
 a {
