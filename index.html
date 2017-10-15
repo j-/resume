@@ -15,22 +15,24 @@
 
 <main id="resume">
 
-<section id="section-identity" class="vcard">
+<section id="section-identity" class="vcard" itemscope itemtype="http://schema.org/Person">
 	<h1>
-		<a class="url fn n" href="https://skeoh.com/" title="Homepage">
-			<span class="given-name">Jamie</span>
-			<span class="family-name">Hoeks</span>
+		<a class="url fn n" href="https://skeoh.com/" title="Homepage" itemprop="url">
+			<span class="given-name" itemprop="givenName">Jamie</span>
+			<span class="family-name" itemprop="familyName">Hoeks</span>
 		</a>
 	</h1>
-	<a class="email" href="mailto:j@skeoh.com" title="Send me an email">j@skeoh.com</a>
+	<a class="email" href="mailto:j@skeoh.com" title="Send me an email" itemprop="email">j@skeoh.com</a>
 	<span class="separator"></span>
-	<a class="github" href="https://github.com/j-/" title="GitHub page">github.com/j-</a>
+	<a class="github" href="https://github.com/j-/" title="GitHub page" itemprop="url">github.com/j-</a>
 	<span class="separator"></span>
-	<a class="tel" href="tel:+61410185129" title="Call or text me">0410 185 129</a>
+	<a class="tel" href="tel:+61410185129" title="Call or text me" itemprop="telephone">0410 185 129</a>
 	<span class="separator"></span>
-	<address class="adr">
+	<address class="adr" itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
 		<a href="https://www.google.com/maps/place/East+Melbourne+VIC+3002/" title="View on Google Maps">
-			<span class="locality">East Melbourne</span>, <span class="region">Victoria</span> <span class="postal-code">3002</span>
+			<span class="locality" itemprop="addressLocality">East Melbourne</span>,
+			<span class="region" itemprop="addressRegion">Victoria</span>
+			<span class="postal-code" itemprop="postalCode">3002</span>
 		</a>
 	</address>
 </section>
