@@ -46,6 +46,9 @@ address {
 .separator {
 	margin: 0 0.4em;
 }
+.separator::after {
+	content: '\b7';
+}
 .date {
 	float: right;
 	color: #888;
