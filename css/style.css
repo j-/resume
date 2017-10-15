@@ -74,7 +74,8 @@ ul.products li {
 	display: block;
 }
 #section-download {
-	margin-bottom: 1em;
+	padding: 1em;
+	box-sizing: border-box;
 }
 #section-download a {
 	padding: 0.25em;
