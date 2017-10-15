@@ -65,6 +65,7 @@ ul li {
 }
 ul ul li {
 	margin: 0;
+	list-style: disc;
 }
 ul.products li {
 	display: inline-block;
