@@ -6,6 +6,7 @@ body {
 	border: none;
 	outline: none;
 	padding: 0;
+	box-shadow: none;
 }
 a {
 	border: none;
