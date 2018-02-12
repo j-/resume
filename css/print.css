@@ -10,6 +10,7 @@ body {
 }
 a {
 	border: none;
+	cursor: pointer !important;
 }
 * {
 	color: #000 !important;
