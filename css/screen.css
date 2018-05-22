@@ -53,10 +53,10 @@ h2 {
 	line-height: 1em;
 }
 #section-download a svg {
-	color: #444;
 	fill: currentColor;
 }
 #section-download a:hover {
 	background-color: #eee;
 	border: none;
+	color: #000;
 }
