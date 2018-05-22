@@ -9,7 +9,7 @@ body {
 .role {
 	page-break-inside: avoid;
 }
-#section-skills {
+#section-education {
 	page-break-before: always;
 }
 #section-latest {
