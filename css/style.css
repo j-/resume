@@ -53,16 +53,3 @@ ul.products li {
 	display: inline-block;
 	margin: 0.2em;
 }
-#section-download {
-	padding: 1em;
-	box-sizing: border-box;
-}
-#section-download a {
-	padding: 0.25em;
-	background-color: #eee;
-}
-#section-download a:hover {
-	color: #eee;
-	background-color: #333;
-	border-bottom: 1px solid #800;
-}

@@ -32,15 +32,31 @@ h2 {
 	display: none;
 }
 #section-download {
-	padding: 1em;
+	padding: 0;
 	box-sizing: border-box;
+	margin-bottom: 5em;
+	display: flex;
 }
 #section-download a {
-	padding: 0.25em;
-	background-color: #eee;
+	text-align: center;
+	background-color: #fff;
+	outline: 1px solid rgba(0, 0, 0, 0.2);
+	box-shadow: 0 2px 3px rgba(0, 0, 0, 0.1);
+	flex: 1;
+	border: none;
+	padding: 2em;
+}
+#section-download a strong {
+	text-transform: uppercase;
+	font-family: Arial, sans-serif;
+	display: block;
+	line-height: 1em;
+}
+#section-download a svg {
+	color: #444;
+	fill: currentColor;
 }
 #section-download a:hover {
-	color: #eee;
-	background-color: #333;
-	border-bottom: 1px solid #800;
+	background-color: #eee;
+	border: none;
 }
