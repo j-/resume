@@ -25,9 +25,6 @@ ul.products li a {
 	padding: 0;
 	border: none !important;
 }
-ul.products li:not(:last-child) a::after {
-	content: ', ';
-}
 a.anchor::after {
 	display: none;
 }
