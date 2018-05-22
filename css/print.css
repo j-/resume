@@ -1,38 +1,19 @@
 body {
+	font-size: 14px;
 	margin: 0;
 	padding: 0;
-}
-#resume {
-	border: none;
-	outline: none;
-	padding: 0;
-	box-shadow: none;
-}
-a {
-	border: none;
-	cursor: pointer !important;
-}
-* {
-	color: #000 !important;
-}
-.role {
-	page-break-inside: avoid;
-}
-#section-skills {
-	page-break-before: always;
-}
-ul.products li a {
-	padding: 0;
-	border: none !important;
-}
-a.anchor::after {
-	display: none;
 }
 .print {
 	display: block;
 }
 .noprint {
 	display: none;
+}
+.role {
+	page-break-inside: avoid;
+}
+#section-skills {
+	page-break-before: always;
 }
 #section-latest {
 	margin-bottom: 1em;
