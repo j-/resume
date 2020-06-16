@@ -9,9 +9,6 @@ body {
 .role {
 	page-break-inside: avoid;
 }
-#section-education {
-	page-break-before: always;
-}
 #section-latest {
 	margin-bottom: 1em;
 	color: #444;
