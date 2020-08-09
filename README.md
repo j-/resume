@@ -1,5 +1,5 @@
-[Jamie Hoeks][resume]
-=====================
+[J Hoeks][resume]
+=================
 
 * [View online][resume]
 * [Download .docx][docx]
@@ -7,6 +7,6 @@
 * [Download .vcf][vcf]
 
 [resume]: https://skeoh.com/resume/
-[docx]: https://skeoh.com/resume/Jamie_Hoeks.docx "Word document"
-[pdf]: https://skeoh.com/resume/Jamie_Hoeks.pdf "PDF format"
-[vcf]: https://skeoh.com/resume/Jamie_Hoeks.vcf "Contact card"
+[docx]: https://skeoh.com/resume/J_Hoeks.docx "Word document"
+[pdf]: https://skeoh.com/resume/J_Hoeks.pdf "PDF format"
+[vcf]: https://skeoh.com/resume/J_Hoeks.vcf "Contact card"

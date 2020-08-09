@@ -1,11 +1,11 @@
 BEGIN:VCARD
 VERSION:3.0
-N:Hoeks;Jamie;;Mr.;
-FN:Jamie Hoeks
+N:Hoeks;J;;Mr.;
+FN:J Hoeks
 TITLE:Web Developer
 ADR;TYPE=HOME:;;;Docklands;Victoria;3008;
 TEL;HOME;VOICE:+61410185129
 EMAIL:j@skeoh.com
 URL:https://skeoh.com
-SOURCE:https://skeoh.com/resume/Jamie_Hoeks.vcf
+SOURCE:https://skeoh.com/resume/J_Hoeks.vcf
 END:VCARD
